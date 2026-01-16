@@ -60,3 +60,6 @@ Screenshots showing successful decryption and task completion are available in t
 ## 📄 Disclaimer
 
 This repository is for educational and learning purposes only.
+
+Screenshot
+![Decrypt](screenshots/decrypt.png)
